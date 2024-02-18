@@ -1,0 +1,33 @@
+.Panel {
+    margin: auto;
+    border: 2px solid #646cffaa;
+    border-radius: 5%;
+    width: 30rem;
+    height: 20rem;
+}
+
+.Login {
+    margin: auto;
+    position: absolute;
+    width: 20%;
+    left: 40%;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.Login input {
+    margin: 2%;
+    border: 2px solid #646cffaa;
+}
+
+.Login input:focus {
+}
+
+.Login button {
+    margin: 2%;
+}
+
+Login label {
+    margin-left: 0;
+}
